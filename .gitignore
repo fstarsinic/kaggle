@@ -1,0 +1,4 @@
+*.snappy.*
+*.crc
+_SUCCESS
+part*
